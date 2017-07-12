@@ -26,7 +26,7 @@
     'name': 'Cuenta Analitica en Costo de Venta',
     'version': '1',
     "author" : "Argil Consulting & German Ponce Dominguez",
-    "category" : "Ingenia",
+    "category" : "Accounting",
     'description': """
 
 Este modulo agrega la cuenta Analitica en las partidas de Costo de Ventas.
